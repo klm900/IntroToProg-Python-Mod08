@@ -1,0 +1,5 @@
+Pens,5.0
+Stapler,8.0
+Scissors,4.0
+Glue,3.0
+Ruler,5.0
